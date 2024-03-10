@@ -99,7 +99,7 @@ form {
     }
 }
 @media screen and (max-width: 480px) {
-    .search_result {
+.search_result {
     width: 100%;
     }
 }
